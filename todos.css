@@ -1,0 +1,9 @@
+
+#card_{
+    background-color: plum;
+    border-radius: 20px;
+    box-shadow: inset;
+}
+#card1{
+    border-radius: 40px;
+}
